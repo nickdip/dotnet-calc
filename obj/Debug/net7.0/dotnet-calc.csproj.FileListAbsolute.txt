@@ -12,3 +12,4 @@
 /Users/nickdiplos/Projects/dotnet-calc/dotnet-calc/obj/Debug/net7.0/dotnet-calc.pdb
 /Users/nickdiplos/Projects/dotnet-calc/dotnet-calc/obj/Debug/net7.0/dotnet-calc.genruntimeconfig.cache
 /Users/nickdiplos/Projects/dotnet-calc/dotnet-calc/obj/Debug/net7.0/ref/dotnet-calc.dll
+/Users/nickdiplos/Projects/dotnet-calc/dotnet-calc/obj/Debug/net7.0/dotnet-calc.sourcelink.json

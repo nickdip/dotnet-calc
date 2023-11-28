@@ -37,6 +37,8 @@ class CalcProgram
     {
         bool endApp = false;
 
+        Console.WriteLine("Hi");
+
         while (!endApp)
         {
             string[] inputs = { "", "" }; // initalize arrays with curly brackets
@@ -58,30 +60,39 @@ class CalcProgram
                     inputs[i] = Console.ReadLine();
                 }
 
-                Console.WriteLine("+ - Add");
-                Console.WriteLine("- Subtract");
-                Console.WriteLine("* - Muliply");
-                Console.WriteLine("/ - Divide");
-                Console.WriteLine("Please choose an operand:");
-
-                string[] operands = { "+", "-", "*", "/" };
-
-                operand = Console.ReadLine();
-
-                while (!Array.Exists(operands, element => element == operand))
-                {
-                    Console.WriteLine("Please write one of the available operands");
-                    operand = Console.ReadLine();
-                        
-                }
             }
 
-            //try
-            //{
-            //    double result = Calculator.DoOperation(nums[0], nums[1], operand);
-            //}
+            Console.WriteLine("+ - Add");
+            Console.WriteLine("- Subtract");
+            Console.WriteLine("* - Muliply");
+            Console.WriteLine("/ - Divide");
+            Console.WriteLine("Please choose an operand:");
+
+            string[] operands = { "+", "-", "*", "/" };
+
+            operand = Console.ReadLine();
+
+            while (!Array.Exists(operands, element => element == operand))
+            {
+                Console.WriteLine("Please write one of the available operands");
+                operand = Console.ReadLine();
+
+            }
+
+            try
+            {
+                double result = Calculator.DoOperation(nums[0], nums[1], operand);
+            }
+
+            catch (Exception e)
+            {
+                Console.WriteLine("Oh no! An error occured!" + e.Message);
+
+            }
+            
 
 
+            endApp = true;
 
 
 
