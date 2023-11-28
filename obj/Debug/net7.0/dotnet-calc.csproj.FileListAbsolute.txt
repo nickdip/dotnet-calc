@@ -1,0 +1,14 @@
+/Users/nickdiplos/Projects/dotnet-calc/dotnet-calc/bin/Debug/net7.0/dotnet-calc
+/Users/nickdiplos/Projects/dotnet-calc/dotnet-calc/bin/Debug/net7.0/dotnet-calc.deps.json
+/Users/nickdiplos/Projects/dotnet-calc/dotnet-calc/bin/Debug/net7.0/dotnet-calc.runtimeconfig.json
+/Users/nickdiplos/Projects/dotnet-calc/dotnet-calc/bin/Debug/net7.0/dotnet-calc.dll
+/Users/nickdiplos/Projects/dotnet-calc/dotnet-calc/bin/Debug/net7.0/dotnet-calc.pdb
+/Users/nickdiplos/Projects/dotnet-calc/dotnet-calc/obj/Debug/net7.0/dotnet-calc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nickdiplos/Projects/dotnet-calc/dotnet-calc/obj/Debug/net7.0/dotnet-calc.AssemblyInfoInputs.cache
+/Users/nickdiplos/Projects/dotnet-calc/dotnet-calc/obj/Debug/net7.0/dotnet-calc.AssemblyInfo.cs
+/Users/nickdiplos/Projects/dotnet-calc/dotnet-calc/obj/Debug/net7.0/dotnet-calc.csproj.CoreCompileInputs.cache
+/Users/nickdiplos/Projects/dotnet-calc/dotnet-calc/obj/Debug/net7.0/dotnet-calc.dll
+/Users/nickdiplos/Projects/dotnet-calc/dotnet-calc/obj/Debug/net7.0/refint/dotnet-calc.dll
+/Users/nickdiplos/Projects/dotnet-calc/dotnet-calc/obj/Debug/net7.0/dotnet-calc.pdb
+/Users/nickdiplos/Projects/dotnet-calc/dotnet-calc/obj/Debug/net7.0/dotnet-calc.genruntimeconfig.cache
+/Users/nickdiplos/Projects/dotnet-calc/dotnet-calc/obj/Debug/net7.0/ref/dotnet-calc.dll
